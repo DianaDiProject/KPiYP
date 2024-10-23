@@ -1,0 +1,14 @@
+D:\Word\KPiYP\LR\LR5KPiYP\LR5KPiYP(1.2)\LR5KPiYP(1.2)\obj\Debug\net8.0\LR5KPiYP(1.2).GeneratedMSBuildEditorConfig.editorconfig
+D:\Word\KPiYP\LR\LR5KPiYP\LR5KPiYP(1.2)\LR5KPiYP(1.2)\obj\Debug\net8.0\LR5KPiYP(1.2).AssemblyInfoInputs.cache
+D:\Word\KPiYP\LR\LR5KPiYP\LR5KPiYP(1.2)\LR5KPiYP(1.2)\obj\Debug\net8.0\LR5KPiYP(1.2).AssemblyInfo.cs
+D:\Word\KPiYP\LR\LR5KPiYP\LR5KPiYP(1.2)\LR5KPiYP(1.2)\obj\Debug\net8.0\LR5KPiYP(1.2).csproj.CoreCompileInputs.cache
+D:\Word\KPiYP\LR\LR5KPiYP\LR5KPiYP(1.2)\LR5KPiYP(1.2)\bin\Debug\net8.0\LR5KPiYP(1.2).exe
+D:\Word\KPiYP\LR\LR5KPiYP\LR5KPiYP(1.2)\LR5KPiYP(1.2)\bin\Debug\net8.0\LR5KPiYP(1.2).deps.json
+D:\Word\KPiYP\LR\LR5KPiYP\LR5KPiYP(1.2)\LR5KPiYP(1.2)\bin\Debug\net8.0\LR5KPiYP(1.2).runtimeconfig.json
+D:\Word\KPiYP\LR\LR5KPiYP\LR5KPiYP(1.2)\LR5KPiYP(1.2)\bin\Debug\net8.0\LR5KPiYP(1.2).dll
+D:\Word\KPiYP\LR\LR5KPiYP\LR5KPiYP(1.2)\LR5KPiYP(1.2)\bin\Debug\net8.0\LR5KPiYP(1.2).pdb
+D:\Word\KPiYP\LR\LR5KPiYP\LR5KPiYP(1.2)\LR5KPiYP(1.2)\obj\Debug\net8.0\LR5KPiYP(1.2).dll
+D:\Word\KPiYP\LR\LR5KPiYP\LR5KPiYP(1.2)\LR5KPiYP(1.2)\obj\Debug\net8.0\refint\LR5KPiYP(1.2).dll
+D:\Word\KPiYP\LR\LR5KPiYP\LR5KPiYP(1.2)\LR5KPiYP(1.2)\obj\Debug\net8.0\LR5KPiYP(1.2).pdb
+D:\Word\KPiYP\LR\LR5KPiYP\LR5KPiYP(1.2)\LR5KPiYP(1.2)\obj\Debug\net8.0\LR5KPiYP(1.2).genruntimeconfig.cache
+D:\Word\KPiYP\LR\LR5KPiYP\LR5KPiYP(1.2)\LR5KPiYP(1.2)\obj\Debug\net8.0\ref\LR5KPiYP(1.2).dll
